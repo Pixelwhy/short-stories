@@ -35,3 +35,14 @@
   margin-right: auto;
   margin-left: auto;
 }
+.links {
+  color: rebeccapurple;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  text-align: center;
+}
+
+.links:hover {
+  color:darkorchid;
+}
